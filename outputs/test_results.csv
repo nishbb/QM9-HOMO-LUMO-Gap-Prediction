@@ -1,0 +1,3 @@
+Model,MAE (meV),RMSE (meV),R²
+MPNN Baseline (2D only),139.6,213.1,0.9728
+EGNN (3D equivariant),75.7,116.0,0.9919
